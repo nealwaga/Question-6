@@ -24,5 +24,7 @@ In your terminal:
 ---
 ## Running the Files
 After extracting the files and navigating to the project folder, 
-1. Running the first question
+1. Running the first question:
 >``python3 question_6_1.py``
+2. Running the second question:
+>``node question_6_2.js``
