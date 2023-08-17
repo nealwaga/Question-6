@@ -3,7 +3,7 @@ function findMisiingNumber(arr) {
     const n = arr.length + 1;
     const totalSum = (n * (n + 1)) / 2;
 
-    // Calculating the actual sum od elements in the array
+    // Calculating the actual sum of elements in the array
     const actualSum = arr.reduce((sum, num) => sum + num, 0);
 
     // Missing number is the difference between the expected sum and the actual sum 
