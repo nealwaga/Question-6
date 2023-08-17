@@ -28,3 +28,5 @@ After extracting the files and navigating to the project folder,
 >``python3 question_6_1.py``
 2. Running the second question:
 >``node question_6_2.js``
+3. Running the third question:
+>``node question_6_3.js``
